@@ -10,7 +10,7 @@ namespace HandsonMicrosoft
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("2o hello");
+            Console.WriteLine("alice says hello");
             Console.Read();
         }
     }
